@@ -1,5 +1,5 @@
 # About me
-Hello, I am Mohammad Taha, a student pursuing Master's Data Science at Aligarh Muslim University (AMU).  
+Hi there, I am Mohammad Taha, a student currently pursuing Master's in Data Science at Aligarh Muslim University (AMU).  
 More to come here...
 <!--
 **mohdtaha110/mohdtaha110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
