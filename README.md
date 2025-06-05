@@ -3,6 +3,8 @@
 I am a student currently studying Data Science at Aligarh Muslim University. I have a keen inteset in machine learning and deep learning, and
 love to take on projects that involves tackling real world problems.
 
+---
+
 ## 💡 Skills
 - Machine learning: key regression and classifcation algorithms
 - Deep Learning: MLP, CNN, RNN, transfer learning
@@ -13,6 +15,8 @@ love to take on projects that involves tackling real world problems.
   Python (NumPy, Pandas, Scikit-learn, TensorFlow, Matplotlib, seaborn)  
   R (tidyverse packages)  
   SQL
+
+---
 
 ## 🎓 Education
 - **Master of Science in Data Science**  
@@ -27,7 +31,7 @@ Aligarh Muslim University
 📅 2021 - 2024  
 Relevant Coursework: Descriptive and inferential statistics, statistical analysis, probability theory, hypothesis testing, regression analysis.  
 
-
+---
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-taha-)
