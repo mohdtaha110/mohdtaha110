@@ -9,7 +9,7 @@ love to take on projects that involves tackling real world problems.
 - Statistics: Statistical analysis, Statistical modelling, hypothesis testing
 - Operations Research: Optimization techniques for optimizing business workflows
 - Data visualization: Power BI, ggplot
-- Programming:
-  1. Python (NumPy, Pandas, Scikit-learn, TensorFlow, Matplotlib, seaborn)
-  2. R (tidyverse packages)
-  3. SQL
+- Programming:  
+  Python (NumPy, Pandas, Scikit-learn, TensorFlow, Matplotlib, seaborn)  
+  R (tidyverse packages)  
+  SQL
