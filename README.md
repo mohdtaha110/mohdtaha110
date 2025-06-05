@@ -1,17 +1,15 @@
-# About me
-Hi there, I am Mohammad Taha, a student currently pursuing Master's in Data Science at Aligarh Muslim University (AMU).  
-More to come here...
-<!--
-**mohdtaha110/mohdtaha110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Mohammad Taha
+📊 Aspiring Data Scientist | Statistics Graduate  
+I am a student currently studying Data Science at Aligarh Muslim University. I have a keen inteset in machine learning and deep learning, and
+love to take on projects that involves tackling real world problems.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Skills
+- Machine learning: key regression and classifcation algorithms
+- Deep Learning: MLP, CNN, RNN, transfer learning
+- Statistics: Statistical analysis, Statistical modelling, hypothesis testing
+- Operations Research: Optimization techniques for optimizing business workflows
+- Data visualization: Power BI, ggplot
+- Programming:
+  1. Python (NumPy, Pandas, Scikit-learn, TensorFlow, Matplotlib, seaborn)
+  2. R (tidyverse packages)
+  3. SQL
